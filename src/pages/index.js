@@ -22,7 +22,7 @@ const Image = styled.img`
 const IndexPage = () => (
   <Layout>
     <Image src={logo} alt='something here'/>
-    <Title>Hg people I am Abelardo</Title>
+    <Title>BOLD FLAVORS. SERIOUSLY SMOKED MEATS.™</Title>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <Image src={icon} alt='something here'/>
