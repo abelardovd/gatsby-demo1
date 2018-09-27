@@ -5,6 +5,8 @@ import Layout from '../components/layout'
 
 import icon from '../images/gatsby-icon.png'
 
+import logo from '../images/bbcutie-logo.png'
+
 const Title = styled.h1`
   font-size: 1.5em;
   text-align: center;
@@ -19,7 +21,8 @@ const Image = styled.img`
 
 const IndexPage = () => (
   <Layout>
-    <Title>Hi people I am Abelardo</Title>
+    <Image src={logo} alt='something here'/>
+    <Title>Hg people I am Abelardo</Title>
     <p>Welcome to your new Gatsby site.</p>
     <p>Now go build something great.</p>
     <Image src={icon} alt='something here'/>
