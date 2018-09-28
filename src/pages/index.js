@@ -11,15 +11,14 @@ const Title = styled.h1`
   text-align: center;
   color: black;
 `
-const Par1 = styled.h1`
+const Par1 = styled.h5`
   font-size: 1.5em;
   text-align: center;
   color: gray;
 `
 
 const Image = styled.img`
-  margin-left: auto;
-  margin-right: auto;
+  
   height: 300px;
     
 
