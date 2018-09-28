@@ -18,8 +18,8 @@ const Par1 = styled.h1`
 `
 
 const Image = styled.img`
-  justifyContent: center;
-  alignItems: center;
+  
+  align: center;
   height: 300px;
 `
 const Button = styled.button`
