@@ -43,7 +43,7 @@ const IndexPage = () => (
     <Button>Get To Know Us</Button> <Button>Read Our Story</Button>
     
     
-    <Button><Link to="/page-2/">Go to page 2</Link></Button>
+    
   </Layout>
 )
 
