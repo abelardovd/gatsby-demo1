@@ -18,6 +18,8 @@ const Par1 = styled.h1`
 `
 
 const Image = styled.img`
+  margin-left: auto;
+  margin-right: auto;
   height: 300px;
     
 
