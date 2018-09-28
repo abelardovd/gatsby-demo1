@@ -12,7 +12,7 @@ const Title = styled.h1`
   color: black;
 `
 const Par1 = styled.h1`
-  font-size: 0.5em;
+  font-size: 0.9em;
   text-align: center;
   color: gray;
 `
