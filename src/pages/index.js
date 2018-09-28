@@ -11,8 +11,8 @@ const Title = styled.h1`
   text-align: center;
   color: black;
 `
-const Par1 = styled.h5`
-  font-size: 1.5em;
+const Par1 = styled.h1`
+  font-size: 0.5em;
   text-align: center;
   color: gray;
 `
