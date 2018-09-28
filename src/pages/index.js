@@ -19,8 +19,9 @@ const Par1 = styled.h1`
 `
 
 const Image = styled.img`
-  height: 100px;
-  float: center;
+  height: 300px;
+  background-position: center;
+  
 
 `
 
