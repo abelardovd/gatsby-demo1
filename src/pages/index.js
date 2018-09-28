@@ -41,7 +41,7 @@ const IndexPage = () => (
     <Par1>So when you have that familiar craving for a mouth-waterin’ meal, you need to Get Your Booty To Bar-B-Cutie!</Par1>
     <Button>Get to Know Us</Button> <Button>Read Our Story</Button>
     
-    <Link to="/page-2/">Go to page 2</Link>
+    <Button><Link to="/page-2/">Go to page 2</Link></Button>
   </Layout>
 )
 
