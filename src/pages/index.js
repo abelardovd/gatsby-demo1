@@ -39,7 +39,7 @@ const IndexPage = () => (
     <Title>BOLD FLAVORS. SERIOUSLY SMOKED MEATS.™</Title>
     <Par1>For over 65 years of great food, friendly faces, and quick casual service, Bar-B-Cutie® SmokeHouse is second to none! We pride ourselves on the quality of our cooking, the contentment of our guests, and the continuity of our business. </Par1>
     <Par1>So when you have that familiar craving for a mouth-waterin’ meal, you need to Get Your Booty To Bar-B-Cutie!</Par1>
-    <Button>Get to Know Us</Button> <Button>Read Our Story</Button>
+    <Button><Link to="https://www.bar-b-cutie.com/bbq/history/">Go to page 2</Link></Button> <Button>Read Our Story</Button>
     
     <Button><Link to="/page-2/">Go to page 2</Link></Button>
   </Layout>
