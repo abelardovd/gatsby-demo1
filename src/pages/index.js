@@ -18,7 +18,8 @@ const Par1 = styled.h5`
 `
 
 const Image = styled.img`
-  
+  justifyContent: 'center',
+  alignItems: 'center',
   height: 300px;
     
 
