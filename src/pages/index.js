@@ -40,6 +40,9 @@ const IndexPage = () => (
     <Par1>For over 65 years of great food, friendly faces, and quick casual service, Bar-B-Cutie® SmokeHouse is second to none! We pride ourselves on the quality of our cooking, the contentment of our guests, and the continuity of our business. </Par1>
     <Par1>So when you have that familiar craving for a mouth-waterin’ meal, you need to Get Your Booty To Bar-B-Cutie!</Par1>
     <Button>Get To Know Us</Button> <Button>Read Our Story</Button>
+    <Button as={Link} href="https://stackoverflow.com/questions/7055393/center-image-using-text-align-center" prefetch>
+      Documentation
+    </Button>
     
     <Button><Link to="/page-2/">Go to page 2</Link></Button>
   </Layout>
